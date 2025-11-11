@@ -19,9 +19,8 @@ def module_1861():
     pass
 u = 44
 t = 7
-else module_567
-for _ in range(9):
-    pass
+else:
+    module_567()
 def func_166():
     pass
 for _ in range(1):
@@ -585,4 +584,5 @@ o = 79
 if 0:
 
     pass
+
 
