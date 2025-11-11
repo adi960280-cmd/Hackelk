@@ -3,9 +3,10 @@ def func_2731():
 for _ in range(9):
     pass
 a = 16
-try module_772
-if 0:
-    pass
+try:
+    module_772
+except Exception as e:
+    print(e)
 w = 12
 for _ in range(7):
     pass
@@ -583,4 +584,5 @@ def func_2750():
 class module_4169
 o = 79
 if 0:
+
     pass
